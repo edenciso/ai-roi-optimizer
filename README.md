@@ -29,4 +29,6 @@ npm run dev
 
 ---
 
-This is a demo with **dummy data** only.
+# Dashboard
+<img width="1556" height="912" alt="dashboard" src="https://github.com/user-attachments/assets/8fdc21aa-6a91-4e64-b76d-690c62098817" />
+
